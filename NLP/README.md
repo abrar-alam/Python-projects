@@ -1,0 +1,1 @@
+#### These projects might be very basic. However, I have a through understanding of Regex, and language preprocessing (such as chunking, lemmatization, tokenizing). Currently I am learning about n-gram and other models. 

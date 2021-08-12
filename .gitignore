@@ -1,0 +1,13 @@
+# ignore all files in any directory named .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ignore all files in any directory named __pycache__
+__pycache__/
+
+#ignore venvs and associated files
+venv/
+env/
+
+#ignore data
+data/
+
